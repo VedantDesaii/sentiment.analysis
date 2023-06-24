@@ -1,6 +1,9 @@
-# sentiment.analysis
+# Sentiment.analysis
 Project Description:
 The goal of this project was to perform sentiment analysis of stock prices based on news articles. I implemented various data preprocessing techniques and applied sentiment analysis algorithms using Python libraries, particularly focusing on natural language processing (NLP) and Scikit-learn.
+
+Resources:1)CODE.ipynb = contains the jupytrt note code as well visualization of the confusion matrix and other para meters like accuracy score 
+          2)archive(3).zip = contains the data set 
 
 The project involved developing machine learning classifiers, including Naive Bayes and Random Forest, to predict sentiment based on the content of news articles. I utilized the power of these classifiers to analyze the sentiment associated with the news and its potential impact on stock prices.
 
